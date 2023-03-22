@@ -1,6 +1,6 @@
 # Notepad-Python
 A simple Notepad application developed in Python
-#Build with
+# Build with
 tkinter
 # Description
 It includes the following sections:
